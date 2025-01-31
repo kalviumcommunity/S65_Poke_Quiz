@@ -1,0 +1,21 @@
+{
+  "name": "s65_poke_quiz",
+  "version": "1.0.0",
+  "description": "Which Starter Are You?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S65_Poke_Quiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S65_Poke_Quiz/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S65_Poke_Quiz#readme"
+}
