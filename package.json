@@ -11,9 +11,9 @@
     "url": "git+https://github.com/kalviumcommunity/S65_Poke_Quiz.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Akshit Sharma",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/kalviumcommunity/S65_Poke_Quiz/issues"
   },
